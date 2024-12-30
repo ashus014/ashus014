@@ -1,19 +1,16 @@
-### 👋 Hi there! I'm Ashu
+# Hi there, I'm **Ashu Singh** 👋  
 
-<!--
-**ashus014/ashus014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Building scalable systems, one line of code at a time.**  
+💻 **Tech enthusiast** passionate about crafting reliable, high-performance backend solutions using **Core Java, J2EE, Spring Boot, RESTful APIs, and distributed systems**.  
 
-Here are some ideas to get you started:
+🏆 I've contributed to impactful projects at companies like **Wissen Technology, Accenture, and FedEx**, with expertise in **Docker, Kubernetes, AWS**, and modern architectures. My problem-solving mindset and knack for **designing scalable microservices** keep me constantly evolving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Outside of work, I’m all about:  
+⚽️ Supporting **Liverpool FC** with unmatched passion  
+🏃 Running marathons and embracing endurance challenges  
+✍️ Exploring **tech, mental models, and productivity** through my writing on Substack: [Investment Mindset](https://ashusingh.substack.com/)  
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashus014&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+📈 Whether it’s debugging complex systems, brainstorming innovative solutions, or diving into mental models, I thrive on **continuous learning** and **building things that matter.**  
 
+💬 **Let’s connect, collaborate, and create something amazing!**  
+Feel free to explore my repositories and reach out if something piques your interest. 🚀  
