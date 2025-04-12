@@ -1,4 +1,4 @@
-# Hi there, I'm **Ashu Singh** 👋  
+# Hello World, I'm **Ashu Singh** 👋  
 
 🚀 **Building scalable systems, one line of code at a time.**  
 💻 **Tech enthusiast** passionate about crafting reliable, high-performance backend solutions using **Core Java, J2EE, Spring Boot, RESTful APIs, and distributed systems**.  
