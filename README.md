@@ -14,3 +14,6 @@
 
 💬 **Let’s connect, collaborate, and create something amazing!**  
 Feel free to explore my repositories and reach out if something piques your interest. 🚀  
+
+
+[![Ashu Singh profile views](https://u8views.com/api/v1/github/profiles/20342096/views/day-week-month-total-count.svg)](https://u8views.com/github/ashus014)
