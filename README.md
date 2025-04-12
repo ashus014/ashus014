@@ -17,3 +17,5 @@ Feel free to explore my repositories and reach out if something piques your inte
 
 
 [![Ashu Singh profile views](https://u8views.com/api/v1/github/profiles/20342096/views/day-week-month-total-count.svg)](https://u8views.com/github/ashus014)
+
+![](https://komarev.com/ghpvc/?username=ashusingh&color=green&style=flat-square&label=Profile+Views)
